@@ -1,6 +1,6 @@
 vuser_init()
 {
-	
+	//added a new line
 	lr_save_string("SF", "ClientType");
 	lr_save_string("SBTDR", "ScenarioPrepix");
 	lr_save_string("S19","Scenario");

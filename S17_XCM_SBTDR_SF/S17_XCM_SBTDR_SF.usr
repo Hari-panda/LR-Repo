@@ -7,13 +7,13 @@ NewFunctionHeader=1
 RunType=cci
 ActionLogicExt=action_logic
 LastActiveAction=Action
-MajorVersion=2021
+MajorVersion=2020
 MinorVersion=0
 ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=2021.0.0.0
+LastModifyVer=2020.0.0.0
 DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
@@ -22,7 +22,7 @@ LastCodeGenerationVer=2020.0.0.0
 DisableRegenerate=0
 Encoding=ANSI
 Description=
-ScriptLocale=en-US
+ScriptLocale=en-IN
 [Actions]
 vuser_init=vuser_init.c
 Login=Login.c
@@ -71,7 +71,7 @@ Order="S19_XCM_SBTDR_SF"
 [StateManagement]
 LastReplayStatus=2
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 S19_XCM_SBTDR_SF=
